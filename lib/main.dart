@@ -9,6 +9,8 @@ import 'package:provider/provider.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 
+import 'firebase_options.dart';
+
 /*Themes:
 Main Blue: 32, 30, 80, 69
 Main Text: 0, 0, 0, 0
@@ -20,7 +22,10 @@ Second Brown: 80, 31, 30, 69
 void main() async {
   // Used for fire_base_auth
   WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp();
+  await Firebase.initializeApp(
+    options: DefaultFirebaseOptions.currentPlatform,
+  );
+
 
   runApp(const MyApp());
 }
