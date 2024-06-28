@@ -5,7 +5,7 @@ This is a Shopping Cart where you can add items and attack prices and images to 
 
 - **Online Database** - Using Firebase you can store all your data in a NoSQL Realtime Database
 - **Login with Google & Facebook** - Besides logging with a created account you can also login with Facebook/Google
-- **Filtering** - You can Filter trought your items by category
+- **Filtering** - You can Filter throught your items by category
 - **Sorted prices** - Items are also sorted by price from cheapest to priciest
 - **Made with Dart Only** - Made with Only one Programming Language and working on almost all platforms
 
