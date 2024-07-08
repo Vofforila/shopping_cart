@@ -9,9 +9,9 @@ This is a Shopping Cart where you can add items and attack prices and images to 
 - **Sorted prices** - Items are also sorted by price from cheapest to priciest
 - **Made with Dart Only** - Made with Only one Programming Language and working on almost all platforms
 
-### API's
+### Tehnologies
 
-| API/T | Environments | Version | 
+| Tehnologies | Environments | Version | 
 |-----|--------------|---------|
 | [Firebase](https://firebase.google.com/)  | Android+Ios+Web+Windows+MacOS+Linux | V1 |
 | [Flutter SDK](https://docs.flutter.dev/release/archive?tab=windows) | Android+Ios+Web+Windows+MacOS+Linux | 21 |
