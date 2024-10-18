@@ -13,8 +13,10 @@ This is a Shopping Cart where you can add items and attack prices and images to 
 
 | Tehnologies | Environments | Version | 
 |-----|--------------|---------|
-| [Firebase](https://firebase.google.com/)  | Android+Ios+Web+Windows+MacOS+Linux | V1 |
-| [Flutter SDK](https://docs.flutter.dev/release/archive?tab=windows) | Android+Ios+Web+Windows+MacOS+Linux | 21 |
+| [Android Studio](https://firebase.google.com/)  | IDE | V1 |
+| [Firebase](https://firebase.google.com/)  | Database | V1 |
+| [Flutter SDK](https://docs.flutter.dev/release/archive?tab=windows) | Framework | 21 |
+| [Dart SDK](https://dart.dev/get-dart/archive) | Compiler | 2.5.4 |
 
 ### Install
 
