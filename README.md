@@ -25,8 +25,26 @@ https://docs.flutter.dev/release/archive
 
 Add both Dart & Flutter to the Enviromental Variables PATH
 
-Pull github anywhere with
+Clone Github repo anywhere with:
+
 ```
-  $ git clone https://github.com/Rapptz/discord.py
+  $ git clone https://github.com/Vofforila/shopping_cart
 ```
 
+Get Android Studio:
+
+https://developer.android.com/studio
+
+Open Android Studio
+On bottom Right Click on Device Explorer
+Add a device
+
+In google-services.json add your own Firebase SDK ID
+
+In Androi Studio Terminal run the following to check if the flutter install worked:
+
+```
+flutter doctor
+```
+
+Run the app 😊!
