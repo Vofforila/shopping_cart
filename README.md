@@ -15,3 +15,19 @@ This is a Shopping Cart where you can add items and attack prices and images to 
 |-----|--------------|---------|
 | [Firebase](https://firebase.google.com/)  | Android+Ios+Web+Windows+MacOS+Linux | V1 |
 | [Flutter SDK](https://docs.flutter.dev/release/archive?tab=windows) | Android+Ios+Web+Windows+MacOS+Linux | 21 |
+
+### Install
+
+Install Dart & Flutter at C:/User/user/
+
+https://dart.dev/get-dart/archive // Dart
+https://docs.flutter.dev/release/archive
+
+Add both Dart & Flutter to the Enviromental Variables PATH
+
+Pull github anywhere with
+````
+  ```
+  $ git clone https://github.com/Rapptz/discord.py
+ ```
+  ````
