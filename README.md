@@ -38,9 +38,7 @@ Get Android Studio:
 
 https://developer.android.com/studio
 
-Open Android Studio
-On bottom Right Click on Device Explorer
-Add a device
+Open Android Studio on bottom Right Click on Device Explorer Add a device
 
 In google-services.json add your own Firebase SDK ID
 
