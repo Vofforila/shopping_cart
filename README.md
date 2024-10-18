@@ -26,8 +26,7 @@ https://docs.flutter.dev/release/archive
 Add both Dart & Flutter to the Enviromental Variables PATH
 
 Pull github anywhere with
-````
-  ```
+```
   $ git clone https://github.com/Rapptz/discord.py
- ```
-  ````
+```
+
