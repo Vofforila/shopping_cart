@@ -13,7 +13,7 @@ This is a Shopping Cart where you can add items and attack prices and images to 
 
 | Tehnologies | Environments | Version | 
 |-----|--------------|---------|
-| [Android Studio](https://firebase.google.com/)  | IDE | V1 |
+| [Android Studio](https://firebase.google.com/)  | IDE | Iguana 2023.2.1 |
 | [Firebase](https://firebase.google.com/)  | Database | V1 |
 | [Flutter SDK](https://docs.flutter.dev/release/archive?tab=windows) | Framework | 21 |
 | [Dart SDK](https://dart.dev/get-dart/archive) | Compiler | 2.5.4 |
