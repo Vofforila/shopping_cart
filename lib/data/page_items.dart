@@ -96,7 +96,7 @@ class bottomNavigationBar extends StatelessWidget {
                   child: const Text(
                     'Logout',
                     style: TextStyle(
-                      color: Colors.white,
+                      color: Colors.orange,
                       fontSize: 16,
                     ),
                   )))
