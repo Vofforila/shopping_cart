@@ -9,7 +9,7 @@ This is a Shopping Cart where you can add items and attack prices and images to 
 - **Sorted prices** - Items are also sorted by price from cheapest to priciest
 - **Made with Dart Only** - Made with Only one Programming Language and working on almost all platforms
 
-### Tehnologies
+### Technologies
 
 | Tehnologies | Environments | Version | 
 |-----|--------------|---------|
